@@ -1,6 +1,8 @@
 
 #Code von:
 #https://stackabuse.com/reading-and-writing-json-to-a-file-in-python/
+#grove.py
+#Michael Wyssen, Adrian Degonda
 
 import json
 from random import randrange
